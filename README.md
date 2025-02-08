@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Yousif Osama Rashad from Egypt, Qalyubia, Benha .<br><br>- 🔭 I’m Studying in Faculty of Computers and Artificial Intelligence - Benha University .<br>- 📚 I'm currently learning Front-end .</p>
+<p align="left">I'm Yousif Osama Rashad from Egypt, Qalyubia, Benha .<br><br>- 🔭 I’m Studying at Faculty of Computers and Artificial Intelligence - Benha University .<br>- 📚 I'm currently learning Front-end .</p>
 
 ###
 
