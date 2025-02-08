@@ -28,13 +28,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="right">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ4eTJncnU0bGEwNnl4aTc4NXB3YzYzbHFpYnBtYjhxMTE5NnpmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0R7AQsnA3yIUcbvztz/giphy.gif"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
