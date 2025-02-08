@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Yousif Osama Rashad from Egypt, Qalyubia, Benha .<br><br>- 🔭 I’m Studying at Faculty of Computers and Artificial Intelligence - Benha University .<br>- 📚 I'm currently learning Front-end .</p>
+<p align="left">I'm Yousif Osama Rashad from Egypt, Qalyubia, Benha .<br><br>- 🔭 I’m Studying in Faculty of Computers and Artificial Intelligence - Benha University .<br>- 📚 I'm currently learning Front-end .</p>
 
 ###
 
@@ -61,6 +61,15 @@
   </a>
   <a href="https://www.instagram.com/yousif_osvmv/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/201554616606" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/yousif_osama_1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:manalf686@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
